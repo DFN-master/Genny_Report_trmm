@@ -1,5 +1,7 @@
 {
-  "url": "jdbc:postgresql://localhost:5432/seu_banco",
+  "url": "127.0.0.1",
+  "port": "5432",
+  "database": "seu_banco",
   "user": "seu_usuario",
   "passwd": "sua_senha"
 }
