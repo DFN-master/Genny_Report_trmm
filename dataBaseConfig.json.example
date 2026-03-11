@@ -1,0 +1,5 @@
+{
+  "url": "jdbc:postgresql://localhost:5432/seu_banco",
+  "user": "seu_usuario",
+  "passwd": "sua_senha"
+}
